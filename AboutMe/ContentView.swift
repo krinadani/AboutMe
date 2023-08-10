@@ -20,7 +20,7 @@ struct ContentView: View {
                     .aspectRatio(contentMode: .fit)
                 
             
-                Text("My name is Krina!")
+                Text("Hi, my name is Krina!")
                     .font(.title)
                     .fontWeight(.semibold)
                     .foregroundColor(Color.black)
